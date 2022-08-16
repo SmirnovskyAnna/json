@@ -1,0 +1,53 @@
+{
+user: {
+id: 368,
+first_name: "Анна",
+last_name: "Смирнова",
+email: "barantsovaanna@gmail.com",
+status: "active",
+skype: null,
+avatar: "https://appbooster-staging-assets.s3-us-west-2.amazonaws.com/customer/avatar/368/standart_4d47b05f4c06417130d9bbbdb260870a.jpg?X-Amz-Expires=600&X-Amz-Date=20220816T110042Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIFOUOCS5FMTITUPA/20220816/us-west-2/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=112804cbb83cc4998ad3c4d7f4d13f2f036c23d46022817bcceaa56fae78a3f5",
+locale: "ru",
+balance: 0,
+balance_in_hold: 0,
+channel_notifications: true,
+email_notifications: true,
+facebook_link: "https://staging.appbooster.com/users/auth/facebook?redirect_on_auth_url=https%3A%2F%2Fmaster.staging.appbooster.com%2Fprofile",
+vkontakte_link: "https://staging.appbooster.com/users/auth/vkontakte?redirect_on_auth_url=https%3A%2F%2Fmaster.staging.appbooster.com%2Fprofile",
+telegram_bot_link: "https://t.me/ASOPulseStagingBot?start=d4a400fc-660f-43f1-b1a5-1101acac760b",
+telegram_username: null,
+referral_info: {
+link: "https://master.staging.appbooster.com/ref/svtp4ff",
+count: 0,
+bonus: 0,
+percent: 3
+},
+vk_uid: "541099189",
+fb_uid: null,
+google_uid: "116442836032147807136",
+marketing_id: "8569af3795cad3c48fad5ad705e37235",
+financial_status: "standard",
+with_campaigns: true,
+telegram_positions_notifications: true,
+notify_only_about_favourites: false,
+with_apps: true,
+carrot_quest_hmac: "65b90da0d9e707a150430b0d2dc4583b8f59baee06bcfd848edce5a323be98ac",
+whatsapp: null,
+phone: null,
+registration_date: "2022-01-18T17:23:36.018+03:00",
+masquerade_mode: false,
+bot_requests_access: true,
+manager: {
+id: 363,
+first_name: "Александр",
+last_name: "Рогачев",
+email: "rogachev@appbooster.ru",
+skype: "+7 (981) 969-52-17",
+avatar: null,
+telegram_username: "glamfactory@yandex.ru",
+carrot_quest_id: null,
+phone: "+7 (981) 969-52-17",
+work_phone: "+7 (981) 969-52-17"
+}
+}
+}
